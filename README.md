@@ -1,2 +1,2 @@
-#  Task 2 fake-news-prediction-
+ fake-news-prediction-
 using machine learning
